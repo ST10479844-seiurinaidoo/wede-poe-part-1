@@ -1,0 +1,54 @@
+Planning & Research:
+Conducted research on renewable energy in South Africa, including policies and solar adoption trends.
+Defined organisation overview: history, mission, vision, and target audience.
+Outlined website objectives (education, service showcasing, lead generation, trust-building).
+Planned features & functionality: responsive design, service pages, content hub, lead generation tools, testimonials, image gallery, contact/support features.
+Compiled budget estimates and timeline milestones (planning, UI/UX design, development, launch, monitoring).
+
+Design & Prototyping:
+Created sitemap showing 5 key pages: Home, About, Services, Contact, FAQs.
+Designed wireframes (Home, Services, About, Contact, FAQs) in Canva to visualize layout and navigation.
+Selected a colour palette:
+#fffc00 (yellow) – sunlight, optimism, trust.
+#00bfff (blue) – clean energy, professionalism.
+#39f88d (green) – sustainability, growth.
+#f17781 (pink) – warmth, contrast, approachability.
+Created the company logo using Canva.
+Chose and credited images from Unsplash, Pexels, Freepik, Pixabay, and Vecteezy.
+
+Development (Coding the Website):
+Set up HTML structure for all 5 pages:
+Home Page: navigation, company overview, introduction.
+About Page: company history, mission, and vision.
+Services Page: detailed descriptions of installation, consultation, and maintenance.
+Contact Page: phone, email, address, trading hours.
+FAQ Page: categorized questions and answers.
+Used semantic HTML elements (h1, h2, h3, p, li, header) to improve accessibility.
+Implemented navigation bar linking all pages for smooth browsing.
+Applied colour palette consistently across backgrounds, text highlights, and sections.
+Integrated images (solar panels, installations, community projects) with correct attributions.
+Structured content sections with logical hierarchy and spacing for readability.
+
+Version Control & GitHub Deployment:
+Created a local repository in Visual Studio Code.
+Initialized Git and added project files.
+Pushed project files to GitHub repository:
+Ensured all HTML pages, assets, and styles were included.
+Maintained GitHub repo as a version control system and backup for the project.
+
+Testing & Review:
+Conducted cross-browser testing to confirm site renders correctly.
+Checked mobile responsiveness according to wireframes.
+Verified all internal links between pages work correctly.
+Ensured images load properly with correct attributions.
+
+Final Deliverables:
+Fully functional 5-page static website for Green Pulse Solar Solutions.
+Published and version-controlled via GitHub.
+Supporting documentation:
+Business proposal with justification, features, timeline, and references.
+Sitemap, wireframes, and design rational.
+Reference list for images, books, and online resources (Harvard style).
+
+
+
